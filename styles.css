@@ -3,7 +3,16 @@ body {
     background-color: rgb(213, 246, 213);
 }
 
+img {
+    display: block;
+    border-radius: 50%;
+    max-width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
 
+}
 .inputContainer {
     display: flex;
     flex-direction: column;
